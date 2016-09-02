@@ -1,0 +1,19 @@
+{
+  "name": "cagatay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/Hi.git"
+  },
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/Hi/issues"
+  },
+  "homepage": "https://github.com/cagataycali/Hi#readme"
+}
